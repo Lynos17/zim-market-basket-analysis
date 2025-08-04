@@ -34,13 +34,13 @@ insights for bundling, promotions, and shelf arrangement.
 ## 📁 Project Structure
 
 /data
-fmcg_shop_data.csv
+- fmcg_shop_data.csv
 
 /scripts
-simulation_data.py
+- simulation_data.py
 
 /notebooks
-eda_fmcg_market_basket.ipynb
+- eda_fmcg_market_basket.ipynb
 
 README.md
 requirements.txt
