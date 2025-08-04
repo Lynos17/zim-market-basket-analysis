@@ -35,10 +35,13 @@ insights for bundling, promotions, and shelf arrangement.
 
 /data
 fmcg_shop_data.csv
+
 /scripts
 simulation_data.py
+
 /notebooks
 eda_fmcg_market_basket.ipynb
+
 README.md
 requirements.txt
 
